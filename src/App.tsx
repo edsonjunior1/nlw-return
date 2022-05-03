@@ -1,13 +1,7 @@
-import { useState } from 'react'
-import './index.css'
+import { Widget } from "./components/Widget";
 
-function App() {
-
+export function App(){
   return (
-      <div>
-          <button>Alo</button>
-      </div>
+    <Widget />
   )
 }
-
-export default App
