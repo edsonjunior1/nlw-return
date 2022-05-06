@@ -7,7 +7,7 @@ interface FeedBackTypeStepProps {
 
 export function FeedBackTypeStep({onFeedBackTypeChanged}: FeedBackTypeStepProps) {
     return (
-        //Fragment = <></>
+        //Fragment = <> </>
     <>
         <header>
             <span className="text-xl leading-6">Deixe seu feedback</span>
